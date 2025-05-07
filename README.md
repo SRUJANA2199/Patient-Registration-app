@@ -91,7 +91,7 @@ Commit 8)Error handling and user feedback
 - Add fallback notification system
 
 
-**Provide setup and usage instructions for the repository.**
+**Providing setup and usage instructions for the repository.**
 
 1. Clone the Repository
 git clone https://github.com/your-username/patient-registration-system.git
@@ -106,11 +106,11 @@ npm start
 4.Build for Production
  npm run build
 
- **Deploy your solution to a publicly accessible URL **
+ **Deploying my solution to a publicly accessible URL **
  
  https://patientregistrationsystemm.netlify.app/
 
-** Describe any challenges faced during development**
+** Challenges I faced during development**
 
 Working with PGlite was initially challenging due to the limited availability of projects and tutorials. 
 However, I was able to overcome that by thoroughly reviewing the official documentation, which, although time-consuming, proved to be effective.
