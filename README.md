@@ -92,6 +92,7 @@ Commit 8)Error handling and user feedback
 
 
 **Provide setup and usage instructions for the repository.**
+
 1. Clone the Repository
 git clone https://github.com/your-username/patient-registration-system.git
 cd patient-registration-system
@@ -106,8 +107,10 @@ npm start
  npm run build
 
  **Deploy your solution to a publicly accessible URL **
+ 
  https://patientregistrationsystemm.netlify.app/
 
 ** Describe any challenges faced during development**
+
 Working with PGlite was initially challenging due to the limited availability of projects and tutorials. 
 However, I was able to overcome that by thoroughly reviewing the official documentation, which, although time-consuming, proved to be effective.
